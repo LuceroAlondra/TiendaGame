@@ -1,0 +1,5 @@
+com\decroly\tiendagame\repository\ProductRepository.class
+com\decroly\tiendagame\TiendaGameApplication.class
+com\decroly\tiendagame\model\Product.class
+com\decroly\tiendagame\service\TiendaService.class
+com\decroly\tiendagame\controller\ProductController.class
